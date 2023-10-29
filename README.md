@@ -1,5 +1,5 @@
 # NTHU Racing electrical courses
-This is 6 courses for new members in electirc systems gruop of NTHU Racing to help them to build up some basic knowledge of electic engineering.
+There are 6 courses for new members in electirc systems gruop of NTHU Racing to help them to build up some basic knowledge of electic engineering.
 
 ## 01.Logic Design
 - Prenote: https://github.com/SamChang03/NTHU-Racing-generally-electrical-course/blob/main/01.Logic%20Design.pdf
